@@ -1,7 +1,7 @@
 # PROS UI Software Engineer Pre-Interview Questions
 
 The repo includes a set of tests that assess your JavaScript skills, based
-on Rebecca Murphey's js-assessment framework.
+on Rebecca Murphey's js-assessment framework...
 
 # How do I begin?
 
